@@ -63,7 +63,7 @@ Alzheimer-Classification-ML/
 
 Para obtener información detallada sobre la metodología, análisis y resultados del proyecto, consulta la [Wiki del proyecto](https://github.com/Bosnape/Alzheimer-Classification-ML/wiki).
 
-## Citación del Dataset
+## Referencia del Dataset
 
 ```bibtex
 @misc{rabie_el_kharoua_2024,

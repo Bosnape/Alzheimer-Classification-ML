@@ -30,7 +30,7 @@ El dataset contiene información clínica y demográfica de pacientes:
 
 ### Modelos Implementados:
 1. **K-Nearest Neighbors (KNN)** - Aprendizaje basado en instancias
-2. **Modelo de ensamble (Random Forest o Gradient Boosting)** - Método de ensamble con análisis de importancia de características
+2. **Modelo de ensamble (Random Forest)** - Método de ensamble con análisis de importancia de características
 3. **Deep Neural Network (DNN)** - Arquitectura multicapa con regularización
 
 ### Componentes del Pipeline:

@@ -1,4 +1,4 @@
-# Clasificación de Enfermedad de Alzheimer - Pipeline de Machine Learning
+# Clasificación de Enfermedad de Alzheimer
 
 ## Descripción del Proyecto
 
